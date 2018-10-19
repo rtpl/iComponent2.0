@@ -19,14 +19,14 @@ Pod::Spec.new do |s|
 
   s.description      = 'This repository is created for the revamp purpose of iComponent framework. Where we categorised all frameworks individually.'
 
-  s.homepage         = 'https://github.com/MradulM/iComponent'
+  s.homepage         = 'https://github.com/rtpl/iComponent2.0'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'MradulM' => 'mradul.mathur@ranosys.com' }
-  s.source           = { :git => 'https://github.com/MradulM/iComponent.git', :tag => s.version.to_s }
+  s.author           = { 'RTPL' => 'rtpl.developer@ranosys.com' }
+  s.source           = { :git => 'https://github.com/rtpl/iComponent2.0.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-  s.ios.deployment_target = '8.0'
+  s.ios.deployment_target = '10.0'
   s.swift_version = '4.0'
 
   s.source_files = 'iComponent/Classes/**/*'
