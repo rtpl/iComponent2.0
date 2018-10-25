@@ -1,0 +1,439 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/ranosys-monika/Desktop/Ranosys Projects/iComponents-AppTutorial/iComponents-AppTutorial/AppDelegate.swift",
+      "line": 12,
+      "symbol": "AppDelegate",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ranosys-monika/Desktop/Ranosys Projects/iComponents-AppTutorial/iComponents-AppTutorial/AppDelegate.swift",
+      "line": 14,
+      "symbol": "AppDelegate.window",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ranosys-monika/Desktop/Ranosys Projects/iComponents-AppTutorial/iComponents-AppTutorial/AppDelegate.swift",
+      "line": 17,
+      "symbol": "AppDelegate.application(_:didFinishLaunchingWithOptions:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ranosys-monika/Desktop/Ranosys Projects/iComponents-AppTutorial/iComponents-AppTutorial/AppDelegate.swift",
+      "line": 22,
+      "symbol": "AppDelegate.applicationWillResignActive(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ranosys-monika/Desktop/Ranosys Projects/iComponents-AppTutorial/iComponents-AppTutorial/AppDelegate.swift",
+      "line": 27,
+      "symbol": "AppDelegate.applicationDidEnterBackground(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ranosys-monika/Desktop/Ranosys Projects/iComponents-AppTutorial/iComponents-AppTutorial/AppDelegate.swift",
+      "line": 32,
+      "symbol": "AppDelegate.applicationWillEnterForeground(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ranosys-monika/Desktop/Ranosys Projects/iComponents-AppTutorial/iComponents-AppTutorial/AppDelegate.swift",
+      "line": 36,
+      "symbol": "AppDelegate.applicationDidBecomeActive(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ranosys-monika/Desktop/Ranosys Projects/iComponents-AppTutorial/iComponents-AppTutorial/AppDelegate.swift",
+      "line": 40,
+      "symbol": "AppDelegate.applicationWillTerminate(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ranosys-monika/Desktop/Ranosys Projects/iComponents-AppTutorial/iComponents-AppTutorial/AppTutorialViewController.swift",
+      "line": 12,
+      "symbol": "kScreenSize",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ranosys-monika/Desktop/Ranosys Projects/iComponents-AppTutorial/iComponents-AppTutorial/AppTutorialViewController.swift",
+      "line": 13,
+      "symbol": "kSkyBlueThemeColor",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ranosys-monika/Desktop/Ranosys Projects/iComponents-AppTutorial/iComponents-AppTutorial/AppTutorialViewController.swift",
+      "line": 14,
+      "symbol": "kLetsReport",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ranosys-monika/Desktop/Ranosys Projects/iComponents-AppTutorial/iComponents-AppTutorial/AppTutorialViewController.swift",
+      "line": 17,
+      "symbol": "kBackgroundImage",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ranosys-monika/Desktop/Ranosys Projects/iComponents-AppTutorial/iComponents-AppTutorial/AppTutorialViewController.swift",
+      "line": 18,
+      "symbol": "kScreen1Image",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ranosys-monika/Desktop/Ranosys Projects/iComponents-AppTutorial/iComponents-AppTutorial/AppTutorialViewController.swift",
+      "line": 19,
+      "symbol": "kScreen2Image",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ranosys-monika/Desktop/Ranosys Projects/iComponents-AppTutorial/iComponents-AppTutorial/AppTutorialViewController.swift",
+      "line": 20,
+      "symbol": "kScreen3Image",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ranosys-monika/Desktop/Ranosys Projects/iComponents-AppTutorial/iComponents-AppTutorial/AppTutorialViewController.swift",
+      "line": 21,
+      "symbol": "kScreen4Image",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ranosys-monika/Desktop/Ranosys Projects/iComponents-AppTutorial/iComponents-AppTutorial/AppTutorialViewController.swift",
+      "line": 22,
+      "symbol": "kScreen5Image",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ranosys-monika/Desktop/Ranosys Projects/iComponents-AppTutorial/iComponents-AppTutorial/AppTutorialViewController.swift",
+      "line": 24,
+      "symbol": "kScreen1Title",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ranosys-monika/Desktop/Ranosys Projects/iComponents-AppTutorial/iComponents-AppTutorial/AppTutorialViewController.swift",
+      "line": 25,
+      "symbol": "kScreen2Title",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ranosys-monika/Desktop/Ranosys Projects/iComponents-AppTutorial/iComponents-AppTutorial/AppTutorialViewController.swift",
+      "line": 26,
+      "symbol": "kScreen3Title",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ranosys-monika/Desktop/Ranosys Projects/iComponents-AppTutorial/iComponents-AppTutorial/AppTutorialViewController.swift",
+      "line": 27,
+      "symbol": "kScreen4Title",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ranosys-monika/Desktop/Ranosys Projects/iComponents-AppTutorial/iComponents-AppTutorial/AppTutorialViewController.swift",
+      "line": 28,
+      "symbol": "kScreen5Title",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ranosys-monika/Desktop/Ranosys Projects/iComponents-AppTutorial/iComponents-AppTutorial/AppTutorialViewController.swift",
+      "line": 30,
+      "symbol": "kScreen1Message",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ranosys-monika/Desktop/Ranosys Projects/iComponents-AppTutorial/iComponents-AppTutorial/AppTutorialViewController.swift",
+      "line": 31,
+      "symbol": "kScreen2Message",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ranosys-monika/Desktop/Ranosys Projects/iComponents-AppTutorial/iComponents-AppTutorial/AppTutorialViewController.swift",
+      "line": 32,
+      "symbol": "kScreen3Message",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ranosys-monika/Desktop/Ranosys Projects/iComponents-AppTutorial/iComponents-AppTutorial/AppTutorialViewController.swift",
+      "line": 33,
+      "symbol": "kScreen4Message",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ranosys-monika/Desktop/Ranosys Projects/iComponents-AppTutorial/iComponents-AppTutorial/AppTutorialViewController.swift",
+      "line": 34,
+      "symbol": "kScreen5Message",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ranosys-monika/Desktop/Ranosys Projects/iComponents-AppTutorial/iComponents-AppTutorial/AppTutorialViewController.swift",
+      "line": 37,
+      "symbol": "AppTutorialViewController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ranosys-monika/Desktop/Ranosys Projects/iComponents-AppTutorial/iComponents-AppTutorial/AppTutorialViewController.swift",
+      "line": 46,
+      "symbol": "AppTutorialViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ranosys-monika/Desktop/Ranosys Projects/iComponents-AppTutorial/iComponents-AppTutorial/AppTutorialViewController.swift",
+      "line": 51,
+      "symbol": "AppTutorialViewController.viewDidAppear(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ranosys-monika/Desktop/Ranosys Projects/iComponents-AppTutorial/iComponents-AppTutorial/AppTutorialViewController.swift",
+      "line": 99,
+      "symbol": "AppTutorialViewController.didReceiveMemoryWarning()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ranosys-monika/Desktop/Ranosys Projects/iComponents-AppTutorial/iComponents-AppTutorial/TutorialView.swift",
+      "line": 11,
+      "symbol": "DeviceScreenSize",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ranosys-monika/Desktop/Ranosys Projects/iComponents-AppTutorial/iComponents-AppTutorial/TutorialView.swift",
+      "line": 18,
+      "symbol": "TutorialViewDelegate.actionSkipButton()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ranosys-monika/Desktop/Ranosys Projects/iComponents-AppTutorial/iComponents-AppTutorial/TutorialView.swift",
+      "line": 25,
+      "symbol": "TutorialView.bottomScrollView",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ranosys-monika/Desktop/Ranosys Projects/iComponents-AppTutorial/iComponents-AppTutorial/TutorialView.swift",
+      "line": 26,
+      "symbol": "TutorialView.bottomScrollChildViewWidth",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ranosys-monika/Desktop/Ranosys Projects/iComponents-AppTutorial/iComponents-AppTutorial/TutorialView.swift",
+      "line": 27,
+      "symbol": "TutorialView.bottomScrollImageViewheight",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ranosys-monika/Desktop/Ranosys Projects/iComponents-AppTutorial/iComponents-AppTutorial/TutorialView.swift",
+      "line": 28,
+      "symbol": "TutorialView.bottomImageView",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ranosys-monika/Desktop/Ranosys Projects/iComponents-AppTutorial/iComponents-AppTutorial/TutorialView.swift",
+      "line": 29,
+      "symbol": "TutorialView.topScrollView",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ranosys-monika/Desktop/Ranosys Projects/iComponents-AppTutorial/iComponents-AppTutorial/TutorialView.swift",
+      "line": 30,
+      "symbol": "TutorialView.topScrollChildView",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ranosys-monika/Desktop/Ranosys Projects/iComponents-AppTutorial/iComponents-AppTutorial/TutorialView.swift",
+      "line": 31,
+      "symbol": "TutorialView.topScrollChildViewWidth",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ranosys-monika/Desktop/Ranosys Projects/iComponents-AppTutorial/iComponents-AppTutorial/TutorialView.swift",
+      "line": 32,
+      "symbol": "TutorialView.pageIndicator",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ranosys-monika/Desktop/Ranosys Projects/iComponents-AppTutorial/iComponents-AppTutorial/TutorialView.swift",
+      "line": 33,
+      "symbol": "TutorialView.skipButton",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ranosys-monika/Desktop/Ranosys Projects/iComponents-AppTutorial/iComponents-AppTutorial/TutorialView.swift",
+      "line": 34,
+      "symbol": "TutorialView.skipButtonLabel",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ranosys-monika/Desktop/Ranosys Projects/iComponents-AppTutorial/iComponents-AppTutorial/TutorialView.swift",
+      "line": 41,
+      "symbol": "TutorialView.availableBottomScrollWidth",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ranosys-monika/Desktop/Ranosys Projects/iComponents-AppTutorial/iComponents-AppTutorial/TutorialView.swift",
+      "line": 42,
+      "symbol": "TutorialView.availableTopScrollWidth",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ranosys-monika/Desktop/Ranosys Projects/iComponents-AppTutorial/iComponents-AppTutorial/TutorialView.swift",
+      "line": 43,
+      "symbol": "TutorialView.titleFont",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ranosys-monika/Desktop/Ranosys Projects/iComponents-AppTutorial/iComponents-AppTutorial/TutorialView.swift",
+      "line": 44,
+      "symbol": "TutorialView.messageFont",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ranosys-monika/Desktop/Ranosys Projects/iComponents-AppTutorial/iComponents-AppTutorial/TutorialView.swift",
+      "line": 45,
+      "symbol": "TutorialView.textColor",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ranosys-monika/Desktop/Ranosys Projects/iComponents-AppTutorial/iComponents-AppTutorial/TutorialView.swift",
+      "line": 46,
+      "symbol": "TutorialView.buttonThemeColor",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ranosys-monika/Desktop/Ranosys Projects/iComponents-AppTutorial/iComponents-AppTutorial/TutorialView.swift",
+      "line": 48,
+      "symbol": "TutorialView.skipButtonTitle",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ranosys-monika/Desktop/Ranosys Projects/iComponents-AppTutorial/iComponents-AppTutorial/TutorialView.swift",
+      "line": 49,
+      "symbol": "TutorialView.titleArray",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ranosys-monika/Desktop/Ranosys Projects/iComponents-AppTutorial/iComponents-AppTutorial/TutorialView.swift",
+      "line": 50,
+      "symbol": "TutorialView.messageArray",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ranosys-monika/Desktop/Ranosys Projects/iComponents-AppTutorial/iComponents-AppTutorial/TutorialView.swift",
+      "line": 51,
+      "symbol": "TutorialView.topImagesArray",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ranosys-monika/Desktop/Ranosys Projects/iComponents-AppTutorial/iComponents-AppTutorial/TutorialView.swift",
+      "line": 81,
+      "symbol": "TutorialView.setBottomViewImage",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ranosys-monika/Desktop/Ranosys Projects/iComponents-AppTutorial/iComponents-AppTutorial/TutorialView.swift",
+      "line": 141,
+      "symbol": "TutorialView.awakeFromNib()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ranosys-monika/Desktop/Ranosys Projects/iComponents-AppTutorial/iComponents-AppTutorial/TutorialView.swift",
+      "line": 163,
+      "symbol": "TutorialView.init(frame:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ranosys-monika/Desktop/Ranosys Projects/iComponents-AppTutorial/iComponents-AppTutorial/TutorialView.swift",
+      "line": 172,
+      "symbol": "TutorialView.init(coder:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ranosys-monika/Desktop/Ranosys Projects/iComponents-AppTutorial/iComponents-AppTutorial/TutorialView.swift",
+      "line": 176,
+      "symbol": "TutorialView.layoutIfNeeded()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ranosys-monika/Desktop/Ranosys Projects/iComponents-AppTutorial/iComponents-AppTutorial/iComponentsViewController.swift",
+      "line": 12,
+      "symbol": "iComponentsViewController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ranosys-monika/Desktop/Ranosys Projects/iComponents-AppTutorial/iComponents-AppTutorial/iComponentsViewController.swift",
+      "line": 14,
+      "symbol": "iComponentsViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ranosys-monika/Desktop/Ranosys Projects/iComponents-AppTutorial/iComponents-AppTutorial/iComponentsViewController.swift",
+      "line": 26,
+      "symbol": "iComponentsViewController.addBackBtn()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ranosys-monika/Desktop/Ranosys Projects/iComponents-AppTutorial/iComponents-AppTutorial/iComponentsViewController.swift",
+      "line": 35,
+      "symbol": "iComponentsViewController.didReceiveMemoryWarning()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/ranosys-monika/Desktop/Ranosys Projects/iComponents-AppTutorial"
+}
