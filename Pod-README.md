@@ -24,4 +24,4 @@ self?.showToast(message: "My framework created", withDuration: 5.0)
 ```
 ## Documentation
 
-ToastView framework documentation [here](http://htmlpreview.github.io/?https://github.com/rtpl/iComponent2.0/blob/ICToastView/docs/index.html):
+ToastView framework documentation [here](http://htmlpreview.github.io/?https://raw.githubusercontent.com/rtpl/iComponent2.0/ICToastView/docs/Extensions/UIViewController.html):
