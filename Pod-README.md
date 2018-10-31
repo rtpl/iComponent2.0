@@ -1,4 +1,4 @@
 ## App Tutorial for first time app launch
 To install the pod
 
-`pod 'iComponent' `
+`pod ‘iComponentFramwork’, :git => '<GIT_URL>', :branch => 'ICAppTutorial' `
