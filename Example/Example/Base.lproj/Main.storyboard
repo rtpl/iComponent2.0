@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14313.18" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="NYb-jK-pOo">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14283.14"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="YAE-J3-yG7">
+            <objects>
+                <viewController id="XS5-qB-gGQ" customClass="ViewController" customModule="ICLocationPermissionExample" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="MAX-xm-stC">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" spacing="102" translatesAutoresizingMaskIntoConstraints="NO" id="70m-b6-g3W">
+                                <rect key="frame" x="30" y="114" width="315" height="210"/>
+                                <subviews>
+                                    <stackView opaque="NO" contentMode="scaleToFill" spacing="18" translatesAutoresizingMaskIntoConstraints="NO" id="2B1-np-gWP">
+                                        <rect key="frame" x="0.0" y="0.0" width="315" height="78"/>
+                                        <subviews>
+                                            <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" spacing="18" translatesAutoresizingMaskIntoConstraints="NO" id="9Ps-cf-tga">
+                                                <rect key="frame" x="0.0" y="0.0" width="82.5" height="78"/>
+                                                <subviews>
+                                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" text="Lattitude" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="nnI-hg-jHA">
+                                                        <rect key="frame" x="0.0" y="0.0" width="82.5" height="39.5"/>
+                                                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                                        <nil key="textColor"/>
+                                                        <nil key="highlightedColor"/>
+                                                    </label>
+                                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" text="Longitutde" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="yaM-cO-jfB">
+                                                        <rect key="frame" x="0.0" y="57.5" width="82.5" height="20.5"/>
+                                                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                                        <nil key="textColor"/>
+                                                        <nil key="highlightedColor"/>
+                                                    </label>
+                                                </subviews>
+                                            </stackView>
+                                            <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" spacing="18" translatesAutoresizingMaskIntoConstraints="NO" id="Ceu-Id-kL3">
+                                                <rect key="frame" x="100.5" y="0.0" width="214.5" height="78"/>
+                                                <subviews>
+                                                    <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="FkZ-hb-u4C">
+                                                        <rect key="frame" x="0.0" y="0.0" width="214.5" height="30"/>
+                                                        <nil key="textColor"/>
+                                                        <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                                        <textInputTraits key="textInputTraits"/>
+                                                    </textField>
+                                                    <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="7hJ-nB-f4Z">
+                                                        <rect key="frame" x="0.0" y="48" width="214.5" height="30"/>
+                                                        <nil key="textColor"/>
+                                                        <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                                        <textInputTraits key="textInputTraits"/>
+                                                    </textField>
+                                                </subviews>
+                                            </stackView>
+                                        </subviews>
+                                    </stackView>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="uLL-UF-Ixg">
+                                        <rect key="frame" x="0.0" y="180" width="315" height="30"/>
+                                        <color key="backgroundColor" red="0.83137254900000002" green="0.75294117650000003" blue="0.66274509800000003" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        <fontDescription key="fontDescription" type="boldSystem" pointSize="15"/>
+                                        <state key="normal" title="Get Location">
+                                            <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                        </state>
+                                        <connections>
+                                            <action selector="getCurrentLocation" destination="XS5-qB-gGQ" eventType="touchUpInside" id="vyJ-NQ-495"/>
+                                        </connections>
+                                    </button>
+                                </subviews>
+                            </stackView>
+                        </subviews>
+                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="70m-b6-g3W" firstAttribute="top" secondItem="VEI-GA-sfB" secondAttribute="top" constant="50" id="FBg-Kq-LJ4"/>
+                            <constraint firstItem="70m-b6-g3W" firstAttribute="leading" secondItem="VEI-GA-sfB" secondAttribute="leading" constant="30" id="GtD-Fy-v9Q"/>
+                            <constraint firstItem="VEI-GA-sfB" firstAttribute="trailing" secondItem="70m-b6-g3W" secondAttribute="trailing" constant="30" id="epl-Ya-nWb"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="VEI-GA-sfB"/>
+                    </view>
+                    <navigationItem key="navigationItem" id="NDS-SY-Gj3"/>
+                    <connections>
+                        <outlet property="latitudeLabel" destination="FkZ-hb-u4C" id="7Wr-X5-oWR"/>
+                        <outlet property="longitudeLabel" destination="7hJ-nB-f4Z" id="2eF-ap-ArJ"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="4ws-Om-lZq" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1042" y="-566"/>
+        </scene>
+        <!--Navigation Controller-->
+        <scene sceneID="ci9-ai-EL2">
+            <objects>
+                <navigationController automaticallyAdjustsScrollViewInsets="NO" id="NYb-jK-pOo" sceneMemberID="viewController">
+                    <toolbarItems/>
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="GMK-ht-03n">
+                        <rect key="frame" x="0.0" y="20" width="375" height="44"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                    </navigationBar>
+                    <nil name="viewControllers"/>
+                    <connections>
+                        <segue destination="XS5-qB-gGQ" kind="relationship" relationship="rootViewController" id="E4U-td-Kdw"/>
+                    </connections>
+                </navigationController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="5va-7z-ccR" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="160.80000000000001" y="-566.26686656671666"/>
+        </scene>
+    </scenes>
+</document>

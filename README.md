@@ -24,7 +24,7 @@ pod init
 
 Open the pod file from directory and add pods in podfile.
 ```
-pod 'ICLocationPermission'
+pod 'iComponent', :git => 'https://github.com/rtpl/iComponent2.0.git', :branch => 'ICLocationPermission'
 ```
 
 run command to insatll 
@@ -36,7 +36,7 @@ Now close the xcode project and open prj.xcworkspace instead.
 
 3. After insalling the cocoapod into your project import *ICLocationPermission*
 ```
-import ICLocationPermission
+import iComponent
 import CoreLocation
 ```
 
