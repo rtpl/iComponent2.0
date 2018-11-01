@@ -2,7 +2,7 @@
 //  ICToastView.swift
 //  iComponents
 //
-//  New Version 2.0
+//  New Version 3.0
 //  Created by Mradul Mathur on 28/03/17.
 //  Copyright © 2017 Ranosys. All rights reserved.
 //
@@ -21,7 +21,7 @@ public extension UIViewController {
      
      ### Usage Example: ###
      ````
-     showToast(message : "Process completed!!!", withDuration:5.0)
+     self.showToast(message : "Process completed!!!", withDuration:10.0)
      ````
      */
     public func showToast(message : String, withDuration:CGFloat) {
