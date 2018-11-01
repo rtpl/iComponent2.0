@@ -18,6 +18,11 @@ alt="Toast View Example" width="300" height="500" border="1" /></a>
 pod 'iComponent', :git => 'https://github.com/rtpl/iComponent2.0.git', :branch => ‘ICToastView’
 ```
 ## Example usage
+
+```
+import iComponent
+```
+
 ```
 // call below method to show toast view on any viewcontroller.
 self?.showToast(message: "My framework created", withDuration: 5.0)
