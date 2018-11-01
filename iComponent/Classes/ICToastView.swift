@@ -2,7 +2,7 @@
 //  ICToastView.swift
 //  iComponents
 //
-//  Version 1.0
+//  New Version 2.0
 //  Created by Mradul Mathur on 28/03/17.
 //  Copyright © 2017 Ranosys. All rights reserved.
 //

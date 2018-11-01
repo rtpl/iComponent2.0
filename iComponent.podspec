@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'iComponent'
-  s.version          = '1.0'
+  s.version          = '2.0'
   s.summary          = 'This repository is created for the revamp purpose of iComponent framework. Where we categorised all frameworks individually.'
 
 # This description is used to generate tags and improve search results.
