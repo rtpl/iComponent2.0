@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
 #   * Write the description between the DESC delimiters below.
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
-  s.description      = 'This repository is created for the revamp purpose of iComponent framework. Where we categorised all frameworks individually.'
+  s.description      = 'This component helps you to get location via calling only a single function and get it in callback.'
 
   s.homepage         = 'https://github.com/rtpl/iComponent2.0'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
