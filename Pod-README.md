@@ -8,7 +8,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-You should have macOS and xcode to build an iOS app. Then you have to install cocoapods in you system and then add this pod in your podfile.
+You should have macOS and xcode to build an iOS app. Then you have to install cocoapods in your system and then add this pod in your podfile.
 
 ### Installing
 
