@@ -8,11 +8,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
+You should have macOS and xcode to build an iOS app. Then you have to install cocoapods in you system and then add this pod in your podfile.
 
 ### Installing
 
@@ -20,28 +16,13 @@ To install the pod
 
 `pod 'iComponentFramwork', :git => '<GIT_URL>', :branch => 'ICAppTutorial'`
 
-A step by step series of examples that tell you how to get a development env running
+### How to use ICAppTutorial
 
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
 
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+XCode
 
 ## Contributing
 
