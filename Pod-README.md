@@ -1,6 +1,6 @@
 # App Tutorial
 
-App tutorial is a library created to show tutorial view. Tutorial view is the introductory view of any app which is shown only once when the app is downloaded from the app store.
+ICLoader is a library created to custom loader. Progress Indicators, spinner, activity indicator or loader, is a good thing. Great for showing users that something is going on in the app, i.e. that downloading process has started.
 
 ## Getting Started
 
@@ -14,9 +14,9 @@ You should have macOS and xcode to build an iOS app. Then you have to install co
 
 To install the pod
 
-`pod 'iComponentFramwork', :git => '<GIT_URL>', :branch => 'ICAppTutorial'`
+`pod 'iComponentFramwork', :git => '<GIT_URL>', :branch => 'ICLoader'`
 
-### How to use ICAppTutorial
+### How to use ICLoader
 
 
 
@@ -34,9 +34,9 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-Created by - Ankit Kumar Jayaswal
+Created by - Kritika Middha
 
-Updated by - Monika Ramchandani
+Updated by - Himani Sharma
 
 ## Acknowledgments
 
