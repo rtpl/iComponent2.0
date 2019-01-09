@@ -1,0 +1,131 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/himanisharma/Desktop/iComponentRevamp/iComponentRevamp/AppDelegate.swift",
+      "line": 12,
+      "symbol": "AppDelegate",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/himanisharma/Desktop/iComponentRevamp/iComponentRevamp/AppDelegate.swift",
+      "line": 14,
+      "symbol": "AppDelegate.window",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/himanisharma/Desktop/iComponentRevamp/iComponentRevamp/AppDelegate.swift",
+      "line": 16,
+      "symbol": "AppDelegate.application(_:didFinishLaunchingWithOptions:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/himanisharma/Desktop/iComponentRevamp/iComponentRevamp/AppDelegate.swift",
+      "line": 21,
+      "symbol": "AppDelegate.applicationWillResignActive(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/himanisharma/Desktop/iComponentRevamp/iComponentRevamp/AppDelegate.swift",
+      "line": 28,
+      "symbol": "AppDelegate.applicationDidEnterBackground(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/himanisharma/Desktop/iComponentRevamp/iComponentRevamp/AppDelegate.swift",
+      "line": 34,
+      "symbol": "AppDelegate.applicationWillEnterForeground(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/himanisharma/Desktop/iComponentRevamp/iComponentRevamp/AppDelegate.swift",
+      "line": 38,
+      "symbol": "AppDelegate.applicationDidBecomeActive(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/himanisharma/Desktop/iComponentRevamp/iComponentRevamp/AppDelegate.swift",
+      "line": 42,
+      "symbol": "AppDelegate.applicationWillTerminate(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/himanisharma/Desktop/iComponentRevamp/iComponentRevamp/IActivityLoaderViewController.swift",
+      "line": null,
+      "symbol": "IActivityLoaderViewController",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/himanisharma/Desktop/iComponentRevamp/iComponentRevamp/IActivityLoaderViewController.swift",
+      "line": 11,
+      "symbol": "IActivityLoaderViewController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/himanisharma/Desktop/iComponentRevamp/iComponentRevamp/ProgressLoader.swift",
+      "line": 11,
+      "symbol": "ProgressLoader",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/himanisharma/Desktop/iComponentRevamp/iComponentRevamp/ProgressLoader.swift",
+      "line": 20,
+      "symbol": "ProgressLoader.constant",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/himanisharma/Desktop/iComponentRevamp/iComponentRevamp/ProgressLoader.swift",
+      "line": 21,
+      "symbol": "ProgressLoader.textColor",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/himanisharma/Desktop/iComponentRevamp/iComponentRevamp/ProgressLoader.swift",
+      "line": 22,
+      "symbol": "ProgressLoader.textFont",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/himanisharma/Desktop/iComponentRevamp/iComponentRevamp/ProgressLoader.swift",
+      "line": 23,
+      "symbol": "ProgressLoader.label",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/himanisharma/Desktop/iComponentRevamp/iComponentRevamp/ProgressLoader.swift",
+      "line": 51,
+      "symbol": "ProgressLoader.init(coder:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/himanisharma/Desktop/iComponentRevamp/iComponentRevamp/ViewController.swift",
+      "line": 11,
+      "symbol": "ViewController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/himanisharma/Desktop/iComponentRevamp/iComponentRevamp/ViewController.swift",
+      "line": 13,
+      "symbol": "ViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/himanisharma/Desktop/iComponentRevamp"
+}
