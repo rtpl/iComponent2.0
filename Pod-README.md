@@ -1,4 +1,4 @@
-# App Tutorial
+# Custom Loader
 
 ICLoader is a library created to custom loader. Progress Indicators, spinner, activity indicator or loader, is a good thing. Great for showing users that something is going on in the app, i.e. that downloading process has started.
 
