@@ -1,4 +1,4 @@
-#ICLoader - Custom Loader
+#Custom Loader
 
 ICLoader is a library created to custom loader. Progress Indicators, spinner, activity indicator or loader, is a good thing. Great for showing users that something is going on in the app, i.e. that downloading process has started.
 
@@ -50,7 +50,7 @@ import ICLoader
 1.) If you want custom loader with app icon
 ``` Swift
 
- let activityIndicator = CustomActivityIndicatorView.init (loaderActivityType: .KMLoaderWithAppIcon, loaderActivityPresentType: .KMPresentOnView, target: self, appImage: #imageLiteral(resourceName: "appicon"), loadingImage: #imageLiteral(resourceName: "loader"), loadingText: "Loading...", textColor: #colorLiteral(red: 0.06446303934, green: 0.06277506009, blue: 0.03160527994, alpha: 1), textFont: UIFont.systemFont(ofSize: 13), strokeColor: #colorLiteral(red: 0.9254902005, green: 0.2352941185, blue: 0.1019607857, alpha: 1), strokeWidth: 5.0, percent: 0.0)
+ let activityIndicator = CustomActivityIndicatorView.init (loaderActivityType: .KMLoaderWithAppIcon, loaderActivityPresentType: .KMPresentOnView, target: self, appImage: #imageLiteral(resourceName: "appicon"), loadingImage: #imageLiteral(resourceName: "loader"), loadingText: "Loading...", textColor: UIColor.green, textFont: UIFont.systemFont(ofSize: 13), strokeColor: UIColor.purple, strokeWidth: 5.0, percent: 0.0)
             activityIndicator.startAnimating()
             
 let loaderTimer = Timer.scheduledTimer(timeInterval: 5.0, target: self, selector: #selector(stopLoader), userInfo: nil, repeats: true)
@@ -60,7 +60,7 @@ let loaderTimer = Timer.scheduledTimer(timeInterval: 5.0, target: self, selector
 
 2.) If you want custom loader with progress images
 ``` Swift
-let activityIndicator = CustomActivityIndicatorView.init(loaderActivityType: .KMLoaderWithProgress, loaderActivityPresentType: .KMPresentOnWindow, target: self, appImage: #imageLiteral(resourceName: "appicon"), loadingImage: #imageLiteral(resourceName: "loader"), loadingText: "Loading... \(loadedFileCount) / \(noOfFiles)", textColor: #colorLiteral(red: 0.06446303934, green: 0.06277506009, blue: 0.03160527994, alpha: 1), textFont: UIFont.systemFont(ofSize: 13), strokeColor: UIColor.purple, strokeWidth: 5.0, percent: 0.0)
+let activityIndicator = CustomActivityIndicatorView.init(loaderActivityType: .KMLoaderWithProgress, loaderActivityPresentType: .KMPresentOnWindow, target: self, appImage: #imageLiteral(resourceName: "appicon"), loadingImage: #imageLiteral(resourceName: "loader"), loadingText: "Loading... \(loadedFileCount) / \(noOfFiles)", textColor: UIColor.red, textFont: UIFont.systemFont(ofSize: 13), strokeColor: UIColor.purple, strokeWidth: 5.0, percent: 0.0)
             activityIndicator.startAnimating()
             
  let loaderTimer = Timer.scheduledTimer(timeInterval: 1.0, target: self, selector: #selector(self.increamentSpin), userInfo: nil, repeats: true)
