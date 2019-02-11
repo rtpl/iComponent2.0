@@ -49,7 +49,7 @@ import iComponent
 
 2. Create ICDataDetector objects:
 ```
-var dataDetector = ICDataDetector(detectValue: value)
+let dataDetector = ICDataDetector(detectValue: value)
 //value can be any type like string, array or dictionay
 ```
 
