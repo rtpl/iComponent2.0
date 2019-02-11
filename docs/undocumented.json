@@ -59,7 +59,7 @@
     {
       "file": "/Users/piyushnaredi/Desktop/Piyush_Data Competencies/New Competencies Start/DataDetectorDemo/DataDetectorDemo/ICDataDetector.swift",
       "line": 21,
-      "symbol": "DataDetector.detectValue",
+      "symbol": "ICDataDetector.detectValue",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
