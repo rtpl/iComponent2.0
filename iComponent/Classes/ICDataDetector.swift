@@ -17,7 +17,7 @@ import Foundation
  detectDates() - To detect dates
  detectPhoneNumbers() - To detect phone numbers
  */
-class DataDetector {
+class ICDataDetector {
     var detectValue: String = ""
     
     /**
