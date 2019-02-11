@@ -17,7 +17,7 @@ import Foundation
  detectDates() - To detect dates
  detectPhoneNumbers() - To detect phone numbers
  */
-class ICDataDetector {
+public class ICDataDetector {
     var detectValue: String = ""
     
     /**
@@ -31,30 +31,30 @@ class ICDataDetector {
      DataDetector(detectValue: [[]]])
      ````
  */
-    required init(detectValue: Any) {
+    public required init(detectValue: Any) {
         self.detectValue = (detectValue as AnyObject).description
     }
     
     ///This function detects urls from passed value and return array of detected urls
-    func detectUrls() -> [URL] {
+   public func detectUrls() -> [URL] {
         let detectedLinks = self.performDetection(detectorType: [.link]) as? [URL] ?? []
         return detectedLinks
     }
     
     ///This function detects Dates from passed value and return array of detected dates
-    func detectDates() -> [Date] {
+   public func detectDates() -> [Date] {
         let detectedDates = self.performDetection(detectorType: [.date]) as? [Date] ?? []
         return detectedDates
     }
     
     ///This function detects phone number from passed value and return array of phone numbers
-    func detectPhoneNumbers() -> [String] {
+    public func detectPhoneNumbers() -> [String] {
         let detectedPhoneNumber = self.performDetection(detectorType: [.phoneNumber]) as? [String] ?? []
         return detectedPhoneNumber
     }
     
     ///This function is to perform detection of passed values
-   private func performDetection(detectorType: NSTextCheckingResult.CheckingType) -> [Any] {
+   internal func performDetection(detectorType: NSTextCheckingResult.CheckingType) -> [Any] {
         let aDetector = try? NSDataDetector(types: detectorType.rawValue)
         let detectionRange = NSMakeRange(0, detectValue.count)
         let checkingMatches = aDetector?.matches(in: detectValue, options: [], range: detectionRange)
