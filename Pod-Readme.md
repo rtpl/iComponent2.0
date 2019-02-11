@@ -61,6 +61,6 @@ let detecteDates = dataDetector.detectDates()     //To detect dates.
 let detectPhoneNumbers = dataDetector.detectPhoneNumbers()    //To detect phone numbers
 ````
 
-## Authors
+## Author
 
 Created by - Piyush Naredi
