@@ -47,7 +47,7 @@ Now close the xcode project and open prj.xcworkspace instead.
 import iComponent
 ```
 
-2. Create ICDataDetector objects:
+2. Create instance of ICDataDetector by passing value to be detected:
 ```
 let dataDetector = ICDataDetector(detectValue: value)
 //value can be any type like string, array or dictionay
